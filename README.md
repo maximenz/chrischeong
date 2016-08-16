@@ -4,3 +4,7 @@ To Use iPirateX<BR>
 2) Put "iPirateX 1.1.1" folder on your desktop.<BR>
 3) Click on "iPirateX 1.1.1.exe"<BR>
 Enjoy!<BR>
+-----<BR>
+Support: http://blog.chrischeong.org/p/ipx.html<BR>
+-----<BR>
+To contribute to the project, use the .PIKA file.
